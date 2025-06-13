@@ -1,0 +1,16 @@
+{
+    "name": "jethrowang/mid-project-tool-part",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jethrowang\\MidProjectToolPart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JethroWang24",
+            "email": "202311220@fit.edu.ph"
+        }
+    ],
+    "require": {}
+}
